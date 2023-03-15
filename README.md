@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 👋, I'm Ahmed Mohmmed</h1>
+<h3 align="center">a data analyst and Business intelligence from Egypt</h3>
+I hold a bachelor's degree in political sciences,African affairs diploma,business administration diploma,certified trainer from AAST.
+I love to learn and know New things about marketing & data analytics and always try to gain experience to develop myself to satisfy My curiosity for the love of knowledge and my desire to be the best at doing my job, whatever it is. last important thing My ambition is limitless.
 
-<!--
-**ahmedelmasry97/ahmedelmasry97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedelmasry97](https://github.com/ahmedelmasry97)
 
-Here are some ideas to get you started:
+- 📫 How to reach me **ahmedelmohmmedelmasry@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ahmedmohmmed-8918831bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmedmohmmed-8918831bb" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+ excel- power Bi- SQL bigquery- tableau
