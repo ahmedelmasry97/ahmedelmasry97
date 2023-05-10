@@ -13,4 +13,4 @@ I love to learn and know New things about marketing & data analytics and always 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- excel- power Bi- SQL bigquery- tableau
+ excel- power Bi- SQL bigquery- tableau-R
